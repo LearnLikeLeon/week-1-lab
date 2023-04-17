@@ -3,8 +3,6 @@ Creating an AWS Account and interacting with AWS CloudShell
 
 The image of the final project is shown below:
 
-{ Final images of my project here .............}
-
 ![week_1_lab](https://user-images.githubusercontent.com/121564302/232353260-371df67e-51a9-4d24-9177-ff5306399185.png)
 
 
